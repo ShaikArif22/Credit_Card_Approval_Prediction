@@ -63,8 +63,8 @@ http://127.0.0.1:5000/
 ## Output
 The application predicts whether the applicant is eligible for credit card approval based on the entered details.
 
-##Demo video link
+## demo video link
 https://drive.google.com/file/d/1Mt_a3RhEyEvJzy8Q26TGLuHiR0HueSNH/view?usp=sharing
 
 ## Conclusion
-This project demonstrates how Machine Learning can be applied in the banking and finance domain to automate credit card approval decisions and improve efficiency through data-driven predictions.
+This project strates how Machine Learning can be applied in the banking and finance domain to automate credit card approval decisions and improve efficiency through data-driven predictions.
